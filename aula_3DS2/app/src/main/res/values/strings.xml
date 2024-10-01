@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">aula_3DS2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primeiro app</string>
+    <string name="second_fragment_label">Edilson Junior</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+       Edilson Ebert está à espera de um Edilson Ebert Junior, Apelidado carinhosamente de Jonathan
+    </string>
+</resources>
